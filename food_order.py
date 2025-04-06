@@ -10,6 +10,8 @@
 #     elif age <=18:
 #         bill=10
 #         print("Pease pay $5")
+#     elif age >= 45 and age <= 55:
+#         print("Everthing is going o be ok")
 #     else:
 #         print("Please pay $10")
 
@@ -26,7 +28,7 @@
 
 
 
-# ####Pizza choices########################################
+########################################Pizza choices########################################
 
 print("Welcome to foodland!!")
 bill=0
