@@ -9,3 +9,5 @@
 
 ## <a href="rollarcoaster.py">Rollarcoaster Project</a>
 
+## <a href="treasure_island.py">Treasure Island Project</a>
+
